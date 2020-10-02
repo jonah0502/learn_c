@@ -3,10 +3,6 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 int main() {
-	//--------- Hello world starts here -----------
-//	printf("Hello World");
-	//------- Basic IO starts here ------
-
 	char username[256]; // up to 255 chars
 	int userAge = 0;
 	printf("enter your name followed by your age\n");
