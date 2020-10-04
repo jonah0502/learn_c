@@ -1,6 +1,6 @@
 CXX=gcc
 CXXFLAGS=-Wall
-BUILDTARGETS = hello helloYou fff
+BUILDTARGETS = hello helloYou fff readFile
 
 all: hello helloYou fff readFile
 clean:
