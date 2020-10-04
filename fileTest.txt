@@ -1,0 +1,5 @@
+this is a floating point # +0
+this is a floating point # +0.3
+this is a floating point # +0.30
+this is a floating point # +0.300
+this is a floating point # +0.3000
